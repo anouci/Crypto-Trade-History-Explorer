@@ -1,4 +1,4 @@
-# Crypto Trade History Explorer 🔍📜
+# Crypto Trade History Explorer
 
 Delve into the trade history of any crypto asset, shedding light on trading patterns and behaviors using the Mobula API.
 
