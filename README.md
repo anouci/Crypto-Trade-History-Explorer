@@ -2,7 +2,7 @@
 
 Delve into the trade history of any crypto asset, shedding light on trading patterns and behaviors using the Mobula API.
 
-![Mobula Logo](https://i.imgur.com/v4J2tK6.png)
+![Mobula Logo](https://i.imgur.com/YI8M066.png)
 
 ---
 
